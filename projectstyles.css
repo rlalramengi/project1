@@ -1,0 +1,46 @@
+body {
+    font-family: "Open Sans", sans-serif; }
+    h1{
+      font-family: 'Archivo Black'; font-size: 100px;
+    }
+  
+  h2, h3 {
+    font-family:'Archivo Black'; }
+  
+  h2 {
+    color: darkred; }
+  
+  header h2 {
+    color: maroon; }
+  
+  .site-footer {
+    background-image: linear-gradient(#CEC8FF, white);
+    padding: 10px 0; }
+  
+  .jumbotron {
+    margin: 0;
+    padding: 15px;
+    background-image: linear-gradient(to right, purple, purple, #60106b);
+    color: white; }
+  
+  .navbar {
+    background-color: Maroon; }
+  
+  .carousel {
+    border: solid #5637dd; }
+  
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5); }
+  
+  .carousel {
+    border: solid #5637DD; }
+  
+  #carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100; }
+  .wrapper{
+    background-color:rgba(6, 136, 34, 0.411);
+  }
+  
